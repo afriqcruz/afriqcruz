@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" style="background-color:#0d1117; color:#e6edf3; border-radius:10px; padding:26px 18px;">
 
-<h3><code>afriqcruz@github ~ $ whoami</code></h3>
+<h3 style="color:#7d8590"><code>afriqcruz@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -12,16 +12,16 @@
 <br>
 <br>
 
-<h3><code>afriqcruz@github ~ $ ./contributions.sh</code></h3>
+<h3 style="color:#7d8590"><code>afriqcruz@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>afriqcruz@github ~ $ ./links.sh</code></h3>
+<h3 style="color:#7d8590"><code>afriqcruz@github ~ $ ./links.sh</code></h3>
 
-<p><b>UI/UX Designer · Graphic Design · Building clean interfaces</b></p>
+<p style="color:#8b949e"><b>UI/UX Designer · Graphic Design · Building clean interfaces</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-afriqcruz-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afriqcruz)
 
